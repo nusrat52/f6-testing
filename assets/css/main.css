@@ -1,0 +1,21 @@
+table {
+    border: 2px solid black;
+    margin-left: 500px;
+    /* border-collapse: collapse; */
+}
+
+
+tr, td, th {
+    border: 2px solid black;
+    padding-right: 100px;
+    
+}
+
+h3 {
+    margin-left: 650px;
+}
+
+
+.first-column {
+    background-color: rgb(193, 13, 13);
+}

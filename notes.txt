@@ -1,0 +1,5 @@
+Shortcut for creating 5 <li>;   ol>li*5
+
+<li></li> tags without bullets: https://sentry.io/answers/i-need-an-unordered-list-without-any-bullets-html-css/#:~:text=To%20remove%20the%20bullets%2C%20you,unordered%20list%20to%20%E2%80%9Cnone%E2%80%9D.
+
+

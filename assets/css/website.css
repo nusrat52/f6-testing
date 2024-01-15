@@ -1,0 +1,33 @@
+body {
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+
+
+ul {
+    background-color: black;
+    position: relative;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+li {
+    color: white;
+    list-style-type: none;
+    padding: 2px;
+}
+
+
+h1 {
+    margin-left: 100px;
+}
+
+
+.text-center {
+    margin-left: 70px;
+    margin-right: 70px;
+}

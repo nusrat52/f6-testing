@@ -1,0 +1,120 @@
+.main-container {
+    border: 1px solid white;
+    border-radius: 10px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+    background-color: rgb(249, 250, 251);
+    
+    
+}
+
+
+
+
+.card-element {
+    background-color: white;
+    width: 200px;
+    height: 180px;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* margin: 30px 30px; */
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.10);
+    /* box-shadow: 0 4px 12px hsla(0, 0%, 80%, .45); */
+    /* padding: 5px; */
+    /* position: relative; */
+    
+   
+
+    
+    
+}
+
+
+.card-element.card {
+    margin-right: 30px;
+}
+
+
+img {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -30px;
+    
+
+}
+
+
+
+span {
+    margin-left: 75px;
+    
+    
+}
+
+
+
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    /* margin-bottom: 0; */
+    box-sizing: border-box;
+    
+    /* font-family: newFont, sans-serif;
+    font-weight: bold;
+    font-style: normal; */
+   
+    
+    
+    
+}
+
+  
+@font-face {
+    font-family: yeniFont;
+    src: url('../fonts/Source\ Sans\ Pro\ Semibold.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+    
+}
+  
+
+
+/* @font-face {
+    font-family: newFont;
+    src: url('../fonts/SourceSansPro-Light.otf');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+
+
+
+
+strong {
+    font-family: yeniFont, sans-serif;
+   
+}
+
+
+
+
+
+
+
+.first-card {
+    position: relative;
+    top: -20px;
+}

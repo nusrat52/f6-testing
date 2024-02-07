@@ -11,6 +11,7 @@
     margin-left: 138px;
     font-weight: lighter;
     margin-top: auto;
+    margin-bottom: 120px;
 }
 
 
@@ -141,7 +142,7 @@ img {
 
 .section-arrows {
     position: relative;
-    bottom: 27px;
+    bottom: 280px;
     font-weight: 900;
     display: inline-block;
     margin-left: 35px;
@@ -153,19 +154,19 @@ img {
 
 
 
-.arrow-icon {
+/* .arrow-icon {
     width: 20px;
     height: 20px;
     
-}
+} */
 
 
-.arrow-icon:hover {
+/* .arrow-icon:hover {
     width: 20px;
     height: 20px;
     background-color: #f2f0f0;
     
-}
+} */
 
 
 
@@ -178,9 +179,27 @@ button {
     border-radius: 5px;
     position: relative;
     /* bottom: 315px; */
+    bottom: 330px;
+    left: 140px;
+    font-size: 22px;
+    
+
+
+}
+
+button:hover {
+    background: #f45369;
+    width: 280px;
+    height: 50px;
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    position: relative;
+    /* bottom: 315px; */
     bottom: 340px;
     left: 140px;
     font-size: 22px;
+    cursor: pointer;
     
 
 
